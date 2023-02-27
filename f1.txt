@@ -1,7 +1,5 @@
 Hello World
 Hi
-<<<<<<< HEAD
 apple
 orange
 pomegranate
->>>>>>> b4c61f7458260330c1968fa88715f17ad6876831
