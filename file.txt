@@ -6,3 +6,5 @@ plant
 mango
 apple
 orange
+
+pineapple
